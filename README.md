@@ -1,4 +1,4 @@
-#PI-GPT
+# PI-GPT
 This script is meant to flash raspberrypi operational systems .img files to large hardrives over 2Tb in size 
 as we know most images made for the pi uses the mbr file system limiting your large harddrive to 2 TB only 
 So we have to convert the drive to gpt and thats exactlly what this scrip does automatically flash the .img file
